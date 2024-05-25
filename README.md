@@ -4,5 +4,3 @@ Q: когда сожжёшь машину?
 
 A: когда в ней будут сидеть все мои хейтеры.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=litvin12&show_icons=true&count_private=true&include_all_commits=true)
-
